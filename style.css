@@ -1,0 +1,17 @@
+#myBtn{
+  position: fixed;
+  bottom: 10px;
+  float: left;
+  right: 18.5%;
+  left:77.25%;
+  max-width: 45px;
+  width: 100%;
+  font-size: 18px;
+  border-color: rgba(85,85,85,0.2);
+  background-color:white;
+
+}
+
+#myBtn:hover{
+  background-color: #7dbbf1;
+}
